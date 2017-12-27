@@ -1,10 +1,4 @@
 # **Finding Lane Lines on the Road** 
-
-[hsl]: https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/hsl.png "HSL color format"
-[roi]: https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/roi.png "Region of Interest"
-[result1]: https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/result_1.png "Result 1"
----
-
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
@@ -14,9 +8,9 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale whe
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by adding a new function draw_lane_lines which calculate target slope for every frame, there we have 2 important indicators: how far current slope from average and the indicator of average Hough lines.
 
 If you'd like to include images to show how the pipeline works, here is how to include an image
-![alt hsl][hsl]
-![alt roi][roi]
-![alt result1][result1]
+![alt hsl](https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/hsl.png)
+![alt roi](https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/roi.png)
+![alt result1](https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/result_1.png)
 
 
 
