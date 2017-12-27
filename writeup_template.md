@@ -13,7 +13,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
 [hsl]: ./result_images/hsl.png "HSL color format"
 [roi]: ./result_images/roi.png "Region of Interest"
 [result1]: ./result_images/result_1.png "Result 1"
