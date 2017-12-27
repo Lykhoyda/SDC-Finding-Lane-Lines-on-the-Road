@@ -1,21 +1,8 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
----
-
-**Finding Lane Lines on the Road**
-
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
-
-
-[hsl]: ./result_images/hsl.png "HSL color format"
-[roi]: ./result_images/roi.png "Region of Interest"
-[result1]: ./result_images/result_1.png "Result 1"
+[hsl]: https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/hsl.png "HSL color format"
+[roi]: https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/roi.png "Region of Interest"
+[result1]: https://github.com/Lykhoyda/SDC-Finding-Lane-Lines-on-the-Road/blob/master/result_images/result_1.png "Result 1"
 ---
 
 ### Reflection
